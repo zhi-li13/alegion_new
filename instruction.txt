@@ -1,0 +1,19 @@
+How to open project workspace
+1. Download katalon studio at https://www.katalon.com/download/ --> plug & play no need installation
+2. Open Katalon application
+3. Click on File then Open Project
+4. Double click on folder Assignment to select
+5. Click on Select Folder
+
+How to execute test suite 
+1. Open Test Suite then double click on Test Suite Collection named 00 Alegion
+2. Click on Execute
+
+How to view result of execution
+1. Open folder Reports in the Assignment workspace
+2. Select HTML report
+
+How to edit Data Files to manipulate email and password
+1. Open folder Data Files in the Assignment workspace
+2. Open excel file named Alegion Page
+3. Edit column inp_email and inp_pwd
